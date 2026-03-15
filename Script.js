@@ -86,6 +86,9 @@ Dengan bergabung dalam komunitas ini, para pemilik saluran bisa bertukar informa
 </html>
   `
 }
-function join() {
-  window.location.href = "https://wa.me/6283866317501?text=*Saya%20ingin%20bergabung%20komunitas%20pemilik%20saluran";
+function joinown() {
+  window.location.href = "https://wa.me/6283891977423?text=*Saya%20ingin%20bergabung%20komunitas%20pemilik%20saluran";
+}
+function joinmem() {
+  window.location.href = "https://wa.me/6283891977423?text=*Saya%20ingin%20bergabung%20global%20member%20chat%20di%20komunitas%20A.R.C";
 }
